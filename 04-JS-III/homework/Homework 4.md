@@ -1,0 +1,2 @@
+
+Arrays: Los arrays son objetos que e utilizan para crear listas y hacer operaciones y cambios en ellas. Se efectuan atravez del objeto "Array" y luego si quieres crear un array vacio para rellenarlo pones [], o sino en su defecto, lo rellenas con strings, numeros, booleanos, null, undified, ect. Esto objeto basicamente lo que logra es crear una lisa con los valores que introduzcas, pero tambien a la vez una matriz, ya que abajo de cada valor se encuentra su respectivo numero asignado por el orden osea, 0,1,2, ect.
