@@ -1,0 +1,4 @@
+
+"prototype": Prototype sirve para establecer un metodo dentro de cada clase y asi poder entrar a estos metodos dentro de los objetos de dicha clase. Cada clase tiene un prototype, que vendria a ser una propiedad, que luego la podemos establecer en metodos. Esto se usa para no repetirse constantemente, y poder usar el mismo metodo en los objetos de una clase.
+
+_Constructors_: Construir una clase sirve para poder tener un clase especifica sobre algo, y dentro de ella varios objetos relacionados. Atravez de los contructores, se puede crear una clase que tenga las mismas propiedades para todos los objetos, donde luego puedas cambiar estos a tu voluntad.*
